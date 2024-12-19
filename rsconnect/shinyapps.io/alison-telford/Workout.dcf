@@ -4,9 +4,7 @@ username: alison-telford
 account: alison-telford
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 13622558
-bundleId:
+appId: 13622824
+bundleId: 9544902
 url: https://alison-telford.shinyapps.io/Workout/
 version: 1
-asMultiple: FALSE
-asStatic: FALSE

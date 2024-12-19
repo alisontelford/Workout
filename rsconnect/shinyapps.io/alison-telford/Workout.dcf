@@ -1,0 +1,12 @@
+name: Workout
+title: Workout
+username: alison-telford
+account: alison-telford
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13622558
+bundleId:
+url: https://alison-telford.shinyapps.io/Workout/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
